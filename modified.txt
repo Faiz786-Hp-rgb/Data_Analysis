@@ -1,0 +1,6 @@
+#	Name	Type 1	Type 2	Legendary	Total	HP	Attack	Defense	Sp. Atk	Sp. Def	Speed	Generation
+719	Diancie	Rock	Fairy	True	1150	50	100	150	100	150	50	6
+719	DiancieMega Diancie	Rock	Fairy	True	1290	50	160	110	160	110	110	6
+720	HoopaHoopa Confined	Psychic	Ghost	True	1130	80	110	60	150	130	70	6
+720	HoopaHoopa Unbound	Psychic	Dark	True	1280	80	160	60	170	130	80	6
+721	Volcanion	Fire	Water	True	1130	80	110	120	130	90	70	6
